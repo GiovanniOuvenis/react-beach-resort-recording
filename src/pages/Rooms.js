@@ -2,8 +2,6 @@ import React from 'react';
 import Hero from '../components/Hero';
 import Banner from '../components/Banner';
 import {Link} from "react-router-dom";
-import RoomFilter from '../components/RoomFilter';
-import RoomList from '../components/RoomList';
 import RoomsContainer from '../components/RoomsContainer';
 
 const Rooms = () => {
